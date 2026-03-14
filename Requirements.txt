@@ -9,3 +9,4 @@ time
 Image
 requests
 BytesIO
+plotly.graph_objects
