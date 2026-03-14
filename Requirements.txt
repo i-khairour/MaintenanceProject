@@ -1,7 +1,6 @@
-plotly.graph_objects
 streamlit
 pandas
 numpy
 plotly
-pillow
+Pillow
 requests
