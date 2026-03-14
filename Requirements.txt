@@ -1,12 +1,6 @@
-streamlit 
-pandas 
-numpy 
-plotly 
-datetime
-hashlib
-sqlite3
-time
-Image
+streamlit
+pandas
+numpy
+plotly
+pillow
 requests
-BytesIO
-plotly.graph_objects
