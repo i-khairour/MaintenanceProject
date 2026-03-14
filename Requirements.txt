@@ -4,3 +4,4 @@ numpy
 plotly
 Pillow
 requests
+matplotlib
